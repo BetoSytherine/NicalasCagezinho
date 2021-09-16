@@ -11,5 +11,4 @@
   <img align="right" alt="Rafa-yoda" src="https://discord.com/channels/457569041406623744/710204531199311944/887865432806146078">
 </div>
   
-  ![Snake animation](https://github.com/NicalaCagezinho/NicalasCagezinho/blob/dist/github-contribution-grid-snake.svg)
-  
+ ![Snake animation](https://github.com/NicalasCagezinho/NicalasCagezinho/blob/output/github-contribution-grid-snake.svg)
